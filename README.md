@@ -6,7 +6,11 @@ Notebook Chapter2_MHT contains all the code related to the **Chapter 2: MULTIPLE
 
 The notebook Chapter3_CNN contains all the coded of the **Chapter 3: CONVOLUTIONAL NEURAL NETWORKS** of the thesis. We continue the simulation of the Female mice diet with m = 100 features. For evaluation of the performance of the model for 20 iteration, we save the result in the object `report_AUPRC.pkl`.
 
-The code related to the **Chapter 4-SIMULATION CASE 2: NORMAL POPULATIONS** is divided in two parts. First, we exclusively train the CNNs in the notebook Chapter4_1_Normal_Population. Then, we compare the performace of the CNN comparing with the BH procedure in the notebook Chapter_4_2_Normal_Population_Bench
+The code related to the **Chapter 4-SIMULATION CASE 2: NORMAL POPULATIONS** is divided in two parts. First, we exclusively train the CNNs in the notebook Chapter4_1_Normal_Population. Then, we compare the performace of the CNN comparing with the BH procedure in the notebook Chapter_4_2_Normal_Population_Bench.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/cconejov/Application_CNN_MHT_problems)
+
 
 
 
