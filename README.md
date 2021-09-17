@@ -5,7 +5,7 @@ This is the repository related to my thesis project: **Application of Convolutio
 <img src="https://github.com/cconejov/Application_CNN_MHT_problems/blob/main/tesis_image.PNG" title="Thesis" width="150" />
 
 
-The language used is [Python][https://www.python.org/], especially the libraries [Pandas][https://pandas.pydata.org/], [NumPy][https://numpy.org/]-[SciPy][https://www.scipy.org/], and [scikit-learn][https://scikit-learn.org/stable/]. For training and calibrating the CNNs, we use the [Keras][https://keras.io/] API and [TensorFlow][https://www.tensorflow.org/]. All the code related to the simulation exercises is available in Jupiter notebooks using [Google Colaboratory][https://colab.research.google.com/notebooks/intro.ipynb]. All the code can be accesed
+The language used is [Python](https://www.python.org/), especially the libraries [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)-[SciPy](https://www.scipy.org/), and [scikit-learn](https://scikit-learn.org/stable/). For training and calibrating the CNNs, we use the [Keras](https://keras.io/) API and [TensorFlow](https://www.tensorflow.org/). All the code related to the simulation exercises is available in Jupiter notebooks using [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb). All the code can be accesed
 
  If you want to check the code, it is easy =) with Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cconejov/Application_CNN_MHT_problems/)
 
