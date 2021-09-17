@@ -1,6 +1,10 @@
 Application of Convolutional Neural Networks in Multiple hypothesis testing
 ==============================
 
+<img src="https://github.com/cconejov/Application_CNN_MHT_problems/blob/main/tesis_image.PNG" title="Thesis" width="150" />
+
+
+
 This is the repository related to the thesis project: **Application of Convolutional Neural Networks in the Multiple Testing Problem**  for the Master of Statistics in Data Science at Carlos III University of Madrid.
 
 Notebook Chapter2_MHT contains all the code related to the **Chapter 2: MULTIPLE HYPOTHESIS TESTING**, especially the code related to Simulation case 1 of the 
